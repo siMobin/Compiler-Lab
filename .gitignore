@@ -1,8 +1,4 @@
-*
-!.gitignore
-!*.c
-!*.cc
-!*.cpp
-!*.l
-
+out
+*.tab.h
+*.tab.c
 *.yy.c
