@@ -1,3 +1,4 @@
+.vscode
 out
 *.tab.h
 *.tab.c
