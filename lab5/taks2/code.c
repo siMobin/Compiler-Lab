@@ -1,0 +1,1 @@
+while(2-1<=a<=5*3) print a;
